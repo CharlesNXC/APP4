@@ -7,7 +7,7 @@ A graphical Python application for planning, simulating, and exporting robotic m
 
 ---
 
-## 📌 Project Context
+## 📌 Project 
 
 The goal is for autonomous robots to perform coordinated soccer actions (passes, blocks, shots) based on centralized planning. FSMs help encode behaviors.
 
@@ -37,7 +37,7 @@ Our tool allows users to:
 - Then **Simon & Charles** finished the main code while **Adrien & Thomas** worked on the interface and displaying the simulation properly
 
 ---
-## 🧠 AI Contribution
+## 🧠 AI use
 
 We used **ChatGPT** to assist us in:
 - Understanding the FSM logic.
